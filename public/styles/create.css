@@ -1,0 +1,26 @@
+.card {
+    border: 1px solid #ced4da; /* Add border */
+    border-radius: 15px; /* Add curved border */
+    padding: 20px; /* Add padding */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow */
+    
+}
+
+.card-header {
+    background-color: #007bff; /* Change background color */
+    color: #fff;
+    padding: 20px; /* Adjust padding */
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.container{
+    padding-top: 50px;
+}
+
+.dropify-wrapper .dropify-message p {
+    font-size: 14px; /* Adjust the size as needed */
+    height: 60px;
+}
+
+
